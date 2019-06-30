@@ -2,7 +2,7 @@
   "update": {
       "version": "11",
       "changelog": [
-      "Test json","Test json"
+      "Added Google login","Improved UI", "Added Discord server link"
       ],
       "link":"https://github.com/amitkhairnar44"
     }
